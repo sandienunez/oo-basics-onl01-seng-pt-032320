@@ -6,8 +6,8 @@ class Shoe
     @brand = brand
   end
  
-  def new_shoe
-    puts "Thank you for purchasing a shoe for the poor!"
+  def cobble
+    puts "Shoe has been repaired!"
   end
  
 end
